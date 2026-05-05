@@ -37,10 +37,7 @@ Collect as many stars as possible and beat your highest score!
 ## 🌐 Play the Game
 👉 https://om-suryakanta-panda.itch.io/patrolling
 
----
 
-## 📸 Screenshots
-*(Add your game screenshots here)*
 
 ---
 play =https://om-suryakanta-panda.itch.io/patrolling?secret=xsEOnPOOYMCNz9RFUQ4Hm5BmKMY
